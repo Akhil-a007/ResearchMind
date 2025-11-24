@@ -1,0 +1,5 @@
+{
+  "name": "AI Research Assistant",
+  "description": "A multi-agent AI assistant that takes a research topic, searches the web, summarizes findings, extracts key insights, and generates study notes and quizzes to streamline your learning process.",
+  "requestFramePermissions": []
+}
